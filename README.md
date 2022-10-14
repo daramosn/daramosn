@@ -1,4 +1,13 @@
+<div align="center">
+<img src="https://i.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.webp" align="center" style="width: 100%" />
+</div>  
+
 ### Hi there 👋
+
+I'm a Front-end developer from Colombia. Now I'm looking for a Jr. position.
+
+⚡ My skills: HTML, CSS, Bootstrap and JavaScript.
+🌱 I'm currently learning React
 
 <!--
 **daramosn/daramosn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
