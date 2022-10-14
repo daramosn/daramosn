@@ -5,7 +5,7 @@
 ### Hi there 👋
 
 
-I'm a Front-end developer from Colombia. Now I'm looking for a Jr. position.
+I'm a Front-end developer from Colombia looking for a Jr. position.
 
 ⚡ My skills: HTML, CSS, Bootstrap and JavaScript
 
