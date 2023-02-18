@@ -7,9 +7,9 @@
 
 I'm a Front-end developer from Colombia looking for a Jr. position.
 
-⚡ My skills: HTML, CSS, Bootstrap and JavaScript
+⚡ My skills: HTML, CSS, Sass, JavaScript and React js.
 
-🌱 I'm currently learning React 
+🌱 I'm currently taking the course _Introduction to JavaScript_ on EPAM Learning platform!
 
 <!--
 **daramosn/daramosn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
