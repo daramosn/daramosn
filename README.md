@@ -10,6 +10,8 @@ Front-end developer from Colombia looking for a Jr. position.
 
 🌱 I'm currently taking the course _Introduction to JavaScript_ on EPAM Learning platform!
 
+[CV.pdf](https://github.com/daramosn/daramosn/blob/main/CVen_feb2023.pdf)
+
 <br/>
 <br/>
 
