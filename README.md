@@ -16,7 +16,7 @@ Front-end developer from Colombia looking for a Jr. position.
 <br/>
 
 #### About me 🧑
-I'm Diego, I'm an Electrical Engineer at National University of Colombia, passionate for IT and now I'm a Front-end developer.
+I'm Diego, I'm an Engineer at National University of Colombia, passionate for IT and now I'm a Front-end developer.
 
 I studied Web Development at UTP (Technological University of Pereira) in the program ‘Mision TIC’. Additionaly, I took online courses of Web Development and React js on Udemy. And currently I'm taking the Introduction to JavaScript course in EPAM!
 
