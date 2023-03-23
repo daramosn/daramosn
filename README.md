@@ -8,7 +8,7 @@ Front-end developer from Colombia looking for a Jr. position.
 
 ⚡ My skills: HTML, CSS, Sass, JavaScript and React js.
 
-🌱 I'm currently taking the course _Introduction to JavaScript_ on EPAM Learning platform!
+🌱 I'm currently taking the course _Introduction to JavaScript_ in EPAM University!
 
 [CV.pdf](https://drive.google.com/drive/folders/13aIY4GQLcwjeAvWOI3n-exwJ6NoSDTcY?usp=share_link)
 
