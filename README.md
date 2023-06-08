@@ -4,11 +4,9 @@
 
 ### Hi there 👋
 
-Front-end developer from Colombia looking for a Jr. position.
+Javascript developer from Colombia.
 
-⚡ My skills: HTML, CSS, Sass, JavaScript and React js.
-
-🌱 I'm currently taking the course _Introduction to JavaScript_ in EPAM University!
+⚡ My skills: HTML, CSS, Sass, JavaScript, TypeScript, React, Redux, Jest and Next js
 
 [CV.pdf](https://drive.google.com/drive/folders/13aIY4GQLcwjeAvWOI3n-exwJ6NoSDTcY?usp=share_link)
 
@@ -16,16 +14,11 @@ Front-end developer from Colombia looking for a Jr. position.
 <br/>
 
 #### About me 🧑
-I'm Diego, I'm an Engineer at National University of Colombia, passionate for IT and now I'm a Front-end developer.
+Hello, I'm Diego, a passionate and detail-oriented Front-end Developer with a strong engineering background from the National University of Colombia. I specialize in creating exceptional user experiences using React with TypeScript and Sass. With a deep understanding of web development principles and a keen eye for aesthetics, I consistently deliver visually stunning and functional websites.
 
-I studied Web Development at UTP (Technological University of Pereira) in the program ‘Mision TIC’. Additionaly, I took online courses of Web Development and React js on Udemy. And currently I'm taking the Introduction to JavaScript course in EPAM!
+I stay up-to-date with the latest industry trends and best practices, driven by my passion for clean and intuitive interfaces. My ability to quickly grasp new concepts and technologies allows me to efficiently deliver high quality work. I thrive on collaborating with talented professionals and solving complex problems. I am eager to contribute to innovative projects and make a positive impact in the field.
 
-I'm pretty good at teamwork because in my last job, as engineer, I had to work with other professionals. Also, I can say that I'm quite creative and I have good problem-solving skills too. In ‘Mision TIC’ program with my team, we worked on two projects. The first one, a Trevel blog made with HTML, CSS and vanilla JS called “Nomada_”. And the second one, we developed a web app por Books swapping called “Arcabook”, made on React js. In both projects I worked as the Front-end dev and we used the SCRUM methodology.
-
-I want to say that I have good knowledges and skills on HTML, CSS/Sass, JavaScript and React js. And I have a B2 level in English and French.
-
-I'm very excited for start my career on IT as a developer!
-
+Let's create something awesome together! Reach out and let's explore the possibilities.
 
 <!--
 **daramosn/daramosn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
