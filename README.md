@@ -12,7 +12,9 @@ Javascript developer from Colombia.
 
 #### My projects
 [Therapist web](https://therapist-webpage.vercel.app/)
+
 [Harmony estates](https://harmony-estates.vercel.app/)
+
 [Nissan Dashboard - test](https://nissan-dashboard.vercel.app/) 
 
 #### About me 🧑
