@@ -6,16 +6,7 @@
 
 Javascript developer from Colombia.
 
-⚡ My skills: HTML, CSS, Sass, JavaScript, TypeScript, React, Redux, Jest and Next js
-
-[CV.pdf](https://drive.google.com/drive/folders/13aIY4GQLcwjeAvWOI3n-exwJ6NoSDTcY?usp=share_link)
-
-#### My projects
-[Therapist web](https://therapist-webpage.vercel.app/)
-
-[Harmony estates](https://harmony-estates.vercel.app/)
-
-[Nissan Dashboard - test](https://nissan-dashboard.vercel.app/) 
+[Portfolio]([https://drive.google.com/drive/folders/13aIY4GQLcwjeAvWOI3n-exwJ6NoSDTcY?usp=share_link](https://github.com/daramosn))
 
 #### About me 🧑
 Hello, I'm Diego, a passionate and detail-oriented Front-end Developer with a strong engineering background from the National University of Colombia. I specialize in creating exceptional user experiences using React with TypeScript and Sass. With a deep understanding of web development principles and a keen eye for aesthetics, I consistently deliver visually stunning and functional websites.
