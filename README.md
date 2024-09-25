@@ -6,7 +6,7 @@
 
 Javascript developer from Colombia.
 
-[Portfolio](https://diegoramos-v2.vercel.app/)
+[Portfolio](https://itsdiegoramos.com)
 
 #### About me 🧑
 Hello, I'm Diego, a passionate and detail-oriented Front-end Developer with a strong engineering background from the National University of Colombia. I specialize in creating exceptional user experiences using React with TypeScript and Sass. With a deep understanding of web development principles and a keen eye for aesthetics, I consistently deliver visually stunning and functional websites.
